@@ -13,3 +13,7 @@ Seems we are getting into the meats and bones of Data structures, I am enjoying 
 
 - My summary of this is Lists are like JavaScript Arrays, Tuples are immutable so you have to change them to lists before you can use them and Sets are like a mixture of both qualities of tuples and lists. Bring on the For-loops !
 
+### 4th Session: Fundamentals of coding with Python continued - Dictionaries, Conditional statements and  Functions
+
+We went through dictionaries which are key-value pair data structures, 
+if statements and for loops. I actually quite enjoy using for-loops in python (JavaScript is a whole other thing lol). We also went through the basics of functions and how they are simply reusable code, I think it is all going to come together once we go through Object Orientated programming with classes and objects. 
