@@ -1,6 +1,4 @@
-## What I learnt every session
-
----------------------------------
+## Summary of what I learnt every session
 
 ### 1st session: Fundamentals of coding with Python
 
