@@ -45,3 +45,11 @@ In Encapsulation, the data is not accessed directly; it is accessed through the 
 
 **Polymorphism**:
 The word polymorphism is made of two words poly and morph, where poly means many and morphs means forms. 
+
+
+## 11th Session: Test Driven Development (TDD), Behaviour Driven Development (BDD) and Testing
+Learnt about TDD and BDD.
+
+
+## 12th Session: Agile Software development
+Went over agile methodologies, agile and scrum.
