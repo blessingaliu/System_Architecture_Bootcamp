@@ -1,3 +1,7 @@
+## What I learnt every session
+
+---------------------------------
+
 ### 1st session: Fundamentals of coding with Python
 
 - Today we learnt about the Fundamentals of coding using Python, we went through the data types, operators, variables, printing and inputs.
