@@ -8,3 +8,8 @@
 
 - Today was very comprehensive, we covered overall Python syntax which I will outline below in a very concise way. I also learnt about Lists as a ordered Data structure, with associated built-in methods. Next week we move on to Functions, if statement, for and while loops.... exciting stuff!
 
+### 3rd Session: Fundamentals of coding with Python continued - Lists, Tuples and Sets
+Seems we are getting into the meats and bones of Data structures, I am enjoying it so far (might not be saying the same once we get into for-loops haha). 
+
+- My summary of this is Lists are like JavaScript Arrays, Tuples are immutable so you have to change them to lists before you can use them and Sets are like a mixture of both qualities of tuples and lists. Bring on the For-loops !
+
