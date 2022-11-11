@@ -21,3 +21,15 @@ if statements and for loops. I actually quite enjoy using for-loops in python (J
 ### 5th Session: Fundamentals of coding with Python continued - List, Dictionary comprehension and Debugging your code
 
 Finishing up Data Structures overview with List and Dictionary Comprehension. I am going to be very honest and confess that this final part still goes over my head, I get the individual components (for loops and if statements) but for some reason when they come together it becomes a bit blurry. I'm just going to have to practice them a lot more. The rest of the session was spent examining the stack trace and how to debug your code, which I think is a super vital part of being a programmer. We learnt some of the different types of errors and what they mean, I have made notes about them :)
+
+
+### 6th Session: Introduction to Object Oriented Programming with Python
+
+Things I have covered in this session 
+
+- Python class(Object oriented programming, inheritance)
+- Working with virtual environments and requirements files
+- Python standard libraries/modules
+- request, math,os, glob, argparse, datetime, random
+- use dir() function to see the methods available in a module
+- Introduction to API
