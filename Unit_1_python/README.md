@@ -1,4 +1,4 @@
-## Summary of what I learnt every session
+## Summary of what I learnt in this unit - The Fundamentals of Coding with Python
 
 ### 1st session: Fundamentals of coding with Python
 
