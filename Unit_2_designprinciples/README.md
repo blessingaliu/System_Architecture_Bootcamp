@@ -43,6 +43,5 @@ Within a class, we would encapsulate properties and methods belonging to that cl
 In Encapsulation, the data is not accessed directly; it is accessed through the functions present inside the class. In simpler words, attributes of the class are kept private and public getter and setter methods are provided to manipulate these attributes 
 
 
-
 **Polymorphism**:
 The word polymorphism is made of two words poly and morph, where poly means many and morphs means forms. 
