@@ -19,8 +19,18 @@ Cloud Adoption Framework is a mechanism that involves process, people and techno
 6. Manage (Operate and optimize)
 
 
-### Azure Monitor Overview
+#### Azure Advisor 
+A personalised cloud consultant that helps you follow best practices to optimise your Azure deployments 
 
+#### Azure Service Health
+Azure Service Health notifies you about Azure service incidents and planned maintenances so you can take action to mitigate downtime 
 
+#### Azure Monitor 
+A solution for collecting, analysing and acting on information from your cloud and on-prem environments. We can capture logs and metrics.
+
+Metric is something like telemetry data (CPU usage).
+
+A log is a record that has a particular structure, something you capture to do onwards analytics on.
 
 ### Monitoring Microservices
+**Application insights** is a feature of Azure Monitor that provides extensible application performance management and monitoring for live web apps.
